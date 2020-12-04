@@ -26,4 +26,4 @@
 - Olfa Craft Knife - 26B
 - Brother PT300
 - Slice Ceramic Plastic Cutter
-    ![slice](images/slice.jpg)
+    <!-- ![slice](images/slice.jpg) -->
