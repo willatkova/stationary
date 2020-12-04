@@ -21,8 +21,9 @@
 
 
 ### Other
-- [ ] Croxley Rubber Bands - Nr 32 - 100Gr
-- [ ] Paper Pro Nano Stapler
-- [ ] Olfa Craft Knife - 26B
-- [ ] Brother PT300
-- [ ] Slice Ceramic Plastic Cutter
+- Croxley Rubber Bands - Nr 32 - 100Gr
+- Paper Pro Nano Stapler
+- Olfa Craft Knife - 26B
+- Brother PT300
+- Slice Ceramic Plastic Cutter
+![slice](images/slice.jpg)
