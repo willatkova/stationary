@@ -25,3 +25,4 @@
 - [ ] Paper Pro Nano Stapler
 - [ ] Olfa Craft Knife - 26B
 - [ ] Brother PT300
+- [ ] Slice Ceramic Plastic Cutter
