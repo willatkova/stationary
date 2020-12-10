@@ -1,5 +1,4 @@
-## Will's Official Stationary List
----
+## Will's Official Stationery List
 ### Pens
 - [ ] Kaweco AL Sport - Red Aluminium - Black Kaweco Ink 
 - [ ] Schneider One Business - 0.6mm - Black
